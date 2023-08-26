@@ -11,6 +11,7 @@ namespace GameTeste.Scenarios
     {
         public Win() 
         {
+            Add("-----VITORIA-----");
             Add("O mendigo recua e se esconde casa a dentro, você resolve ir atrás dele e explorar a casa");
             Add("Enquanto isso");
             Add("█▓▒▓█▀██▀█▄░░▄█▀██▀█▓▒▓█");
