@@ -13,7 +13,7 @@ namespace GameTeste.Scenarios
         public Attack() 
         {
             Add("Você acerta um soco no nariz do mendigo");
-            Add("Causando 20 de dano nele");
+            Add("Causando 15 de dano nele");
             Add("░░░░░░▄▄▄▄▄▓▓▓▄▄▄░░░░░");
             Add("░░░░▄▄▓▓▓▓▓▓▓▓▓▓▓▓▓▄░░░");
             Add("░░▄▄▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▀█▄░");
@@ -31,7 +31,7 @@ namespace GameTeste.Scenarios
             Add("1 - Continuar");
 
 
-            State.BeggarDemage(20);
+            State.BeggarDemage(15);
         
         }
 

@@ -15,13 +15,13 @@ namespace GameTeste.Scenarios
 
         public AttackGolf() 
         {
-            Add("Você bate com o taco de golfe no mendigo causando 35 de dano");
+            Add("Você bate com o taco de golfe no mendigo causando 30 de dano");
 
 
 
 
             Add("1 - Continuar");
-            State.BeggarDemage(35);
+            State.BeggarDemage(30);
         }
 
 
