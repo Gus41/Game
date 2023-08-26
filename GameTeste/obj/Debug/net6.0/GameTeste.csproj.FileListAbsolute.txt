@@ -1,0 +1,15 @@
+C:\Users\clint\source\repos\GameTeste\bin\Debug\net6.0\GameTeste.exe
+C:\Users\clint\source\repos\GameTeste\bin\Debug\net6.0\GameTeste.deps.json
+C:\Users\clint\source\repos\GameTeste\bin\Debug\net6.0\GameTeste.runtimeconfig.json
+C:\Users\clint\source\repos\GameTeste\bin\Debug\net6.0\GameTeste.dll
+C:\Users\clint\source\repos\GameTeste\bin\Debug\net6.0\GameTeste.pdb
+C:\Users\clint\source\repos\GameTeste\obj\Debug\net6.0\GameTeste.csproj.AssemblyReference.cache
+C:\Users\clint\source\repos\GameTeste\obj\Debug\net6.0\GameTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clint\source\repos\GameTeste\obj\Debug\net6.0\GameTeste.AssemblyInfoInputs.cache
+C:\Users\clint\source\repos\GameTeste\obj\Debug\net6.0\GameTeste.AssemblyInfo.cs
+C:\Users\clint\source\repos\GameTeste\obj\Debug\net6.0\GameTeste.csproj.CoreCompileInputs.cache
+C:\Users\clint\source\repos\GameTeste\obj\Debug\net6.0\GameTeste.dll
+C:\Users\clint\source\repos\GameTeste\obj\Debug\net6.0\refint\GameTeste.dll
+C:\Users\clint\source\repos\GameTeste\obj\Debug\net6.0\GameTeste.pdb
+C:\Users\clint\source\repos\GameTeste\obj\Debug\net6.0\GameTeste.genruntimeconfig.cache
+C:\Users\clint\source\repos\GameTeste\obj\Debug\net6.0\ref\GameTeste.dll
